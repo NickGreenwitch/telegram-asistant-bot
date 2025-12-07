@@ -1,0 +1,11 @@
+aiogram
+requests
+pydub
+pytz
+googletrans==4.0.0-rc1
+simpleeval
+pint
+pyttsx3
+SpeechRecognition
+SQLAlchemy
+python-dotenv
